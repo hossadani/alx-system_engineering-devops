@@ -1,0 +1,2 @@
+# ! /bin/bash
+queue -n 1 iacta >> iacta
